@@ -1,6 +1,6 @@
 # hevy_stats
 
-A new Flutter project.
+Flutter application to view your statistics that have been exported from the Hevy fitness tracking app. No affiliaction with Hevy. 
 
 ## Getting Started
 
